@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Fashionsite/static/css/main.ae1e9912.css",
+    "main.js": "/Fashionsite/static/js/main.a0c48544.js",
+    "static/media/img.webp": "/Fashionsite/static/media/img.79e455eb99922bb2855f.webp",
+    "static/media/img1.webp": "/Fashionsite/static/media/img1.6f8aadb5e315dacd358f.webp",
+    "static/media/img3.webp": "/Fashionsite/static/media/img3.0903dbed5f0ba7ef136d.webp",
+    "static/media/img2.webp": "/Fashionsite/static/media/img2.52631c4b97329ee14e32.webp",
+    "static/media/img4.webp": "/Fashionsite/static/media/img4.154c85fdef396d283d68.webp",
+    "index.html": "/Fashionsite/index.html",
+    "main.ae1e9912.css.map": "/Fashionsite/static/css/main.ae1e9912.css.map",
+    "main.a0c48544.js.map": "/Fashionsite/static/js/main.a0c48544.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae1e9912.css",
+    "static/js/main.a0c48544.js"
+  ]
+}
